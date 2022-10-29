@@ -24,7 +24,7 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.startupEditor": "none",
-  "workbench.colorTheme": "Origamid Next",
+  "workbench.colorTheme": "Theme",
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "window.title": "🙂 ${activeEditorShort}",
   "window.newWindowDimensions": "inherit",
