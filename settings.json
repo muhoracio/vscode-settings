@@ -5,10 +5,10 @@
   "editor.tabCompletion": "on",
   "editor.wordWrap": "on",
   "editor.formatOnSave": true,
-  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorSmoothCaretAnimation": "on",
   "editor.cursorBlinking": "phase",
   "editor.cursorStyle": "block",
-  // "editor.cursorWidth": 12,
+  "editor.cursorWidth": 12,
   "explorer.compactFolders": false,
   "explorer.sortOrder": "type",
   "explorer.confirmDragAndDrop": false,
@@ -24,18 +24,20 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.startupEditor": "none",
-  "workbench.colorTheme": "Theme",
+  "workbench.colorTheme": "GitHub Dark",
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "window.title": "🙂 ${activeEditorShort}",
   "window.newWindowDimensions": "inherit",
   "html.format.wrapAttributes": "auto",
   "html.format.wrapLineLength": 0,
-  "workbench.statusBar.visible": false,
-  "vscodeGoogleTranslate.preferredLanguage": "English",
+  "workbench.statusBar.visible": true,
   "window.menuBarVisibility": "compact",
-  "workbench.activityBar.visible": false,
+  "workbench.activityBar.visible": true,
   "security.workspace.trust.untrustedFiles": "open",
   "[html]": {
     "editor.defaultFormatter": "vscode.html-language-features"
-  }
+  },
+  "terminal.integrated.tabs.location": "left",
+  "terminal.integrated.tabs.enabled": false,
+  "window.zoomLevel": -1
 }
